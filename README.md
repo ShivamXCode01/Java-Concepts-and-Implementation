@@ -7,7 +7,6 @@ A comprehensive Java repository covering:
 - Arrays & Strings
 - Exception Handling
 - Collections Framework
-- Generics
 - File Handling
 - Multithreading
 - Java Streams
